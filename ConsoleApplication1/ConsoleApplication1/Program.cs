@@ -11,6 +11,7 @@ namespace ConsoleApplication1
         static void Main(string[] args)
         {
             Console.WriteLine("Hellow World");
+            Console.WriteLine("Hellow World");
         }
     }
 }
